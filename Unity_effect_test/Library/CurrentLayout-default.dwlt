@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 1810
+  controlID: 951
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 1914
+  controlID: 992
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -377,9 +377,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.4678533, y: 0.9105563, z: 1.373334}
+    m_Target: {x: 0, y: 6.29, z: -10}
     speed: 2
-    m_Value: {x: -3.4678533, y: 0.9105563, z: 1.373334}
+    m_Value: {x: 0.00000019188892, y: 6.2899995, z: -9.999999}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -425,13 +425,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.055529784, y: -0.88921374, z: 0.11274975, w: -0.44015628}
+    m_Target: {x: -0.008379405, y: -0.9847219, z: 0.1670211, w: -0.05090257}
     speed: 2
-    m_Value: {x: 0.055529784, y: 0.88921374, z: -0.11274975, w: 0.44015628}
+    m_Value: {x: 0.008379405, y: 0.9847219, z: -0.16702108, w: 0.050902568}
   m_Size:
-    m_Target: 4.4265494
+    m_Target: 10
     speed: 2
-    m_Value: 4.4265494
+    m_Value: 10
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -612,23 +612,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 40f8ffff
-      m_LastClickedID: -1984
-      m_ExpandedIDs: 6afbffff
+      m_SelectedIDs: 5c340000
+      m_LastClickedID: 13404
+      m_ExpandedIDs: 6afbffff383400005c340000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Main Camera
+        m_OriginalName: Main Camera
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 13360
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -677,19 +677,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Script
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Script
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\yuta2\Desktop\effect_test\Unity_effect_test
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4c3a0000
-    m_LastClickedID: 14924
+    m_SelectedIDs: 503a0000
+    m_LastClickedID: 14928
     m_ExpandedIDs: 00000000fa390000fc390000fe390000003a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -745,7 +745,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000763400002c3700003c37000082370000ae350000163400007435000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
