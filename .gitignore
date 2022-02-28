@@ -10,6 +10,24 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+
+URP_test/[Ll]ibrary/
+URP_test/[Tt]emp/
+URP_test/[Oo]bj/
+URP_test/[Bb]uild/
+URP_test/[Bb]uilds/
+URP_test/[Ll]ogs/
+URP_test/[Uu]ser[Ss]ettings/
+
+
+Unity_effect_test/[Ll]ibrary/
+Unity_effect_test/[Tt]emp/
+Unity_effect_test/[Oo]bj/
+Unity_effect_test/[Bb]uild/
+Unity_effect_test/[Bb]uilds/
+Unity_effect_test/[Ll]ogs/
+Unity_effect_test/[Uu]ser[Ss]ettings/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
