@@ -10,7 +10,6 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
-
 URP_test/[Ll]ibrary/
 URP_test/[Tt]emp/
 URP_test/[Oo]bj/
@@ -18,8 +17,6 @@ URP_test/[Bb]uild/
 URP_test/[Bb]uilds/
 URP_test/[Ll]ogs/
 URP_test/[Uu]ser[Ss]ettings/
-
-
 Unity_effect_test/[Ll]ibrary/
 Unity_effect_test/[Tt]emp/
 Unity_effect_test/[Oo]bj/
