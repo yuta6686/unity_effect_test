@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 19878
+  controlID: 6829
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 19853
+  controlID: 6796
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -379,9 +379,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.4955456, y: 1.0980723, z: 1.7342038}
+    m_Target: {x: -3.930082, y: -1.0430394, z: 0.1541115}
     speed: 2
-    m_Value: {x: 3.4955456, y: 1.0980723, z: 1.7342038}
+    m_Value: {x: -3.930082, y: -1.0430394, z: 0.1541115}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -427,13 +427,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.0016753632, y: -0.99772406, z: 0.062636524, w: 0.026963415}
+    m_Target: {x: 0.037433226, y: -0.9537413, z: 0.26673025, w: 0.13393979}
     speed: 2
-    m_Value: {x: -0.001675363, y: 0.99772406, z: -0.062636524, w: -0.026963415}
+    m_Value: {x: -0.03743119, y: 0.95368946, z: -0.26671576, w: -0.1339325}
   m_Size:
-    m_Target: 11.822274
+    m_Target: 6.692425
     speed: 2
-    m_Value: 11.822274
+    m_Value: 7.007775
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -633,10 +633,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 80}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 6894ffff8cf5ffff3cfbffff3efbffff3e3e00006a3e0000
+      scrollPos: {x: 0, y: 144}
+      m_SelectedIDs: 286b0000
+      m_LastClickedID: 27432
+      m_ExpandedIDs: 1ebcffff20bcffffb4bcffff58c2ffffd4c4ffff44d8ffff8edbffff00dfffff58e2ffffd4e2ffff2ce6ffff84e9ffffdcecffff2af0ffff7ef0ffffa8f2fffff6f5ffffe4faffffc06a0000ea6a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -699,20 +699,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/ExportFile/Lesson04/Textures
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/ExportFile/Lesson04/Textures
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\yuta2\Desktop\effect_test\URP_test
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c2440000
-    m_LastClickedID: 17602
-    m_ExpandedIDs: 000000003c3d0000
+    m_SelectedIDs: 78460000
+    m_LastClickedID: 18040
+    m_ExpandedIDs: 00000000543d00005c45000074460000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -740,7 +740,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003c3d0000
+    m_ExpandedIDs: 00000000543d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -784,7 +784,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 9}
+      m_ClientGUIView: {fileID: 6}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -795,7 +795,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 110
+  m_DirectoriesAreaWidth: 170
 --- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -833,4 +833,4 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 275
+  m_LastVerticalScrollValue: 0
